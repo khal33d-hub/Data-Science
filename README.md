@@ -1,2 +1,2 @@
 # Data-Science
-Data projects on Exploratory Data Analysis, Data Maniulation and Visualizations from various sources that intreested me
+Data projects on Exploratory Data Analysis, Data Maniulation, Visualizations and Machnine learning from various sources that intrested me.
